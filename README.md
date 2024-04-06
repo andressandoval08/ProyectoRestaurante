@@ -12,3 +12,10 @@
 
 ## Conexion a BD y ejecucion del proyecto
 Mediante la siguiente ruta (**src\main\resources\application.properties**) se debe configurar unicamente el username y contraseña de acuerdo a su MySQL ya que si las credenciales no son las correctas se generara un error de conexion con la base de datos.
+
+## Conexion a BD y ejecucion del proyecto
+Mediante la siguiente ruta (**src\main\resources\application.properties**) se debe configurar unicamente el username y contraseña de acuerdo a su MySQL ya que si las credenciales no son las correctas se generara un error de conexion con la base de datos.
+Despues de realizar esto, para la ejecucion se debe estar parado en la clase (**src/main/java/com/asandoval/restaurante/RestauranteApplication.java**) donde esta realizara la creacion de la base de datos con sus respectivas tablas. 
+
+## Url
+localhost:8081/index.html
