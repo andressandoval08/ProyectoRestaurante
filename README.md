@@ -10,10 +10,5 @@
 4. Lombok: librería para Java que proporciona anotaciones y funciones para reducir la cantidad de código (ejemplo getters and setters)
 
 
-## Esquema de base de datos 
-
-![image](https://github.com/andressandoval08/gestion_proyectos/assets/124326168/c013f358-5c7c-4c88-a072-98577aa52f92)
-
-
 ## Conexion a BD y ejecucion del proyecto
 Mediante la siguiente ruta (**src\main\resources\application.properties**) se debe configurar unicamente el username y contraseña de acuerdo a su MySQL ya que si las credenciales no son las correctas se generara un error de conexion con la base de datos.
